@@ -3,6 +3,11 @@
   flex-direction: column;
   margin: 150px 70px 0 48px;
 }
+@media screen and (max-width: 710px) {
+  .people {
+    margin: 100px 35px 0;
+  }
+}
 
 @media screen and (max-width: 420px) {
   .people {

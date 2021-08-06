@@ -9,11 +9,17 @@
   
 }
 
-@media screen and (max-width:960px) {
+@media screen and (max-width:1005px) {
   .place__title {    
     font-size: 28px;
     line-height: 30px;
-    margin: 15px 0 auto;
+    margin: 35px 0 auto;
+  }
+}
+
+@media screen and (max-width:770px) {
+  .place__title {    
+    margin: 20px 0 auto;
   }
 }
 
